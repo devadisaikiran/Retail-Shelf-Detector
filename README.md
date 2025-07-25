@@ -25,7 +25,7 @@ retail-shelf-detector/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Jaswanth0128/Retail-Shelf-Detector7.git
+git clone https://github.com/devadisaikiran/Retail-Shelf-Detector.git
 cd Retail-Shelf-Detector
 ```
 
@@ -47,7 +47,7 @@ streamlit run app.py
 
 * **Model**: YOLOv8m
 * **Backbone**: CSPDarknet with SPPF and PANet
-* **Training Epochs**: 30
+* **Training Epochs**: 20
 * **Batch Size**: 16
 * **Image Size**: 640x640
 * **Augmentations**: Mosaic, random flip, HSV adjustments, scale
