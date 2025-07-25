@@ -12,10 +12,8 @@ retail-shelf-detector/
 ├── best.pt              # YOLOv8 trained weights
 ├── requirements.txt     # Python dependencies
 ├── render.yaml          # Deployment config for Render
-├── sample_results/      # Inference outputs on test images
 ├── README.md            # Project overview and setup
 ├── evaluation.md        # Evaluation report
-└── ...
 ```
 
 ---
