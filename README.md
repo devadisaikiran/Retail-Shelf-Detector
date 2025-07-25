@@ -127,7 +127,7 @@ Output is saved in `runs/detect/predict/`.
 
 ## 🌐 Deployment
 
-You can deploy this app on [Render](https://retail-shelf-dectector.onrender.com) using the provided `render.yaml`.
+You can deploy this app on [Render](https://retail-shelf-detector.onrender.com) using the provided `render.yaml`.
 
 ```yaml
 services:
@@ -140,7 +140,7 @@ services:
       - key: PYTHON_VERSION
         value: 3.10
 ```
-The app may crash several times as I am using the Render free plan. Please try again after 30 seconds if the problem arise.
+The app may crash several times as I am using the (Render free plan). Please try again after 30 seconds if the problem arise.
 ---
 
 ## 📄 License
