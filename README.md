@@ -127,7 +127,7 @@ Output is saved in `runs/detect/predict/`.
 
 ## 🌐 Deployment
 
-You can deploy this app on [Render](https://retail-shelf-detector.onrender.com) using the provided `render.yaml`.
+I deployed this app on [Render](https://retail-shelf-detector.onrender.com) using the provided `render.yaml`.
 
 ```yaml
 services:
@@ -152,7 +152,7 @@ This project is open-source under the MIT License.
 ## 🤛🏼‍♂️ Author
 
 **Devadi Sai Kiran**
-&#x20;       value: 3.10
+
 
 ---
 
