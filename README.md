@@ -151,7 +151,7 @@ This project is open-source under the MIT License.
 
 ## 🤛🏼‍♂️ Author
 
-**Jaswanth Surya**
+**Devadi Sai Kiran**
 &#x20;       value: 3.10
 
 ---
